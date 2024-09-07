@@ -8,10 +8,17 @@ body{
 }
 
 .encabezado{
-    background-color: aqua;
+    background-color: rgba(98, 0, 255, 0.459);
 }
 
 .titulo{
     
     color: white;
+}
+
+image{
+    bottom:50px;
+    left:50px;
+    transform:translate(-50%,-50%);
+    width:20%; 
 }
